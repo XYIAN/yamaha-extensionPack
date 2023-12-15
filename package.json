@@ -1,0 +1,44 @@
+{
+  "name": "yamaha-extensionPack",
+  "displayName": "yamaha-extensionPack",
+  "publisher": "YAMAHA MOTOR COMPANY",
+  "description": "Externally maintained extension pack for YAMAHA Motor Company (YDS) deveopment team.  ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "nrwl.angular-console",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "firsttris.vscode-jest-runner",
+    "yoavbls.pretty-ts-errors",
+    "natqe.reload",
+    "github.github-vscode-theme",
+    "pkief.material-icon-theme",
+    "christian-kohler.npm-intellisense",
+    "vincaslt.highlight-matching-tag",
+    "dsznajder.es7-react-js-snippets",
+    "rioj7.vscode-remove-comments",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "dzhavat.bracket-pair-toggler",
+    "cobaltblu27.rainbow-highlighter",
+    "mxsdev.typescript-explorer",
+    "pnp.polacode",
+    "rvest.vs-code-prettier-eslint",
+    "mattpocock.ts-error-translator",
+    "jvitor83.typings-autoinstaller",
+    "rbuckton.tsserver-live-reload",
+    "aaron-bond.better-comments",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "crystal-spider.jsdoc-generator",
+    "naumovs.color-highlight",
+    "Gruntfuggly.todo-tree",
+    "alefragnani.Bookmarks"
+  ]
+}
