@@ -6,7 +6,6 @@ Created for YDS Development Team. Contains useful extensions for typescript deve
 
 ## For more information
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Extension Pack Repository](https://github.com/XYIAN/yamaha-extensionPack)
 
 **Happy Holidays Everyone!**
