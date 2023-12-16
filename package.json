@@ -17,6 +17,14 @@
     "color": "#4842ff"
   },
   "icon": "favicon.ico",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/yamaha-general.code-snippets"
+      }
+    ]
+  },
   "extensionPack": [
     "nrwl.angular-console",
     "esbenp.prettier-vscode",
