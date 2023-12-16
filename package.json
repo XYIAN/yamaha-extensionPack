@@ -21,7 +21,7 @@
     "color": "#1704c2",
     "theme": "dark"
   },
-  "icon": "favicon_blue.ico",
+  "icon": "images/blueLogo.ico",
   "contributes": {
     "snippets": [
       {

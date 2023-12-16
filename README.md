@@ -1,6 +1,6 @@
 <p align="center">
   <a href=https://www.yamahamotorsports.com>
-    <img src=https://yamaha-motor.com/images/3D-red.svg height="300px">
+    <img src='./images/y2.jpg' alt='yamaha logo blue'/>
   </a>
 </p>
 
@@ -29,3 +29,8 @@ Welcome to YDS Core Extension Pack which consists of three key contrbutions: Ext
 
 - list of extensions may change at any given time but will likly always have important packs such as prettier.
 - this pack is made for typescript development
+- this is not a Yamaha product but is maintained externally by Yamaha developers.
+
+#### Privacy
+
+All images and branding belong to Yamaha Motor Corperation USA
