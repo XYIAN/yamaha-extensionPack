@@ -1,13 +1,24 @@
+<p align="center">
+  <a href=https://www.yamahamotorsports.com>
+    <img src=https://www.yamaha.com/us/library/images/logos/yamaha-color-purple.svg >
+  </a>
+</p>
+ 
+&nbsp;
 # YDS CORE for VSC
 
 Created for YDS Development Team. Contains useful extensions for typescript development.
 
-## YDS TEAM - FOLLOW THESE STEPS
+## Introduction
 
-- Sync up buisness connect extensions.json
-- uninstall all extensions (they will be reinstalled via extension pack, so it can maintain them for you)
-- click the install button above or search YAMAHA in vsc extensions tab and click install.
-- auto update enable is recommended.
+Welcome to YDS Core Extension Pack which consists of three key contrbutions: Extensions, snippets (YDS & Typescript) keybindings, and settings. All of which are geared to optimize development and improve quality of life for typescript development.
+
+### YDS TEAM - FOLLOW THESE STEPS
+
+1. Sync up buisness connect extensions.json
+2. Uninstall all extensions (they will be reinstalled via extension pack, so it can maintain them for you)
+3. Click the install button above or search YAMAHA in vsc extensions tab and click install.
+4. Once installed, a reload is required to apply the new changes.
 
 ## For more information
 

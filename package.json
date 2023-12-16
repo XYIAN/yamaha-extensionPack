@@ -2,7 +2,7 @@
   "name": "yamaha-extensionPack",
   "displayName": "YAMAHA Development Team Extension Pack (YDS)",
   "publisher": "YAMAHA",
-  "description": "Externally maintained extension pack for YAMAHA Motor Company (YDS) deveopment team.  ",
+  "description": "Externally maintained extension pack for YAMAHA Motor Company (YDS) deveopment team.",
   "version": "0.0.55",
   "engines": {
     "vscode": "^1.84.0"
@@ -11,13 +11,17 @@
     "url": "https://github.com/XYIAN/yamaha-extensionPack"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Snippets",
+    "Visualization",
+    "Themes",
+    "Linters"
   ],
   "galleryBanner": {
     "color": "#1704c2",
     "theme": "dark"
   },
-  "icon": "favicon.ico",
+  "icon": "favicon_blue.ico",
   "contributes": {
     "snippets": [
       {
