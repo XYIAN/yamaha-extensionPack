@@ -1,4 +1,4 @@
-# YDS CORE
+# YDS CORE for VSC
 
 Created for YDS Development Team. Contains useful extensions for typescript development.
 
