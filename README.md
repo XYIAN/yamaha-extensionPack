@@ -1,4 +1,4 @@
-# yamaha-extensionPack README
+# YDS CORE
 
 Created for YDS Development Team. Contains useful extensions for typescript development.
 
