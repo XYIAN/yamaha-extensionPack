@@ -1,10 +1,9 @@
 <p align="center">
   <a href=https://www.yamahamotorsports.com>
-    <img src=https://www.yamaha.com/us/library/images/logos/yamaha-color-purple.svg >
+    <img src=https://yamaha-motor.com/images/3D-red.svg height="300px">
   </a>
 </p>
- 
-&nbsp;
+
 # YDS CORE for VSC
 
 Created for YDS Development Team. Contains useful extensions for typescript development.

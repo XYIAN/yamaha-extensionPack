@@ -28,6 +28,12 @@
         "language": "typescriptreact",
         "path": "./snippets/yamaha-general.code-snippets"
       }
+    ],
+    "commands": [
+      {
+        "command": "yds-core.welcome",
+        "title": "YAMAHA"
+      }
     ]
   },
   "extensionPack": [
