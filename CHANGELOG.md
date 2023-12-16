@@ -8,9 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.0] - 2024-01-01
 
-### Added
+### Added [0.0.4]
 
-- updated icon for extension page
+- yds snippet library extension
+
+### Added [0.0.3]
+
+- icon for extension page
 
 ### Removed
 
