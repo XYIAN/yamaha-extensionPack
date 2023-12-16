@@ -14,8 +14,8 @@
     "Extension Packs"
   ],
   "galleryBanner": {
-    "color": "#8f8ce6",
-    "theme": "dark"
+    "color": "#1704c2",
+    "theme": "light"
   },
   "icon": "favicon.ico",
   "contributes": {
