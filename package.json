@@ -14,9 +14,9 @@
     "Extension Packs"
   ],
   "galleryBanner": {
-    "color": "#ed0222"
+    "color": "#4842ff"
   },
-  "icon": "./favicon.ico",
+  "icon": "favicon.ico",
   "extensionPack": [
     "nrwl.angular-console",
     "esbenp.prettier-vscode",
