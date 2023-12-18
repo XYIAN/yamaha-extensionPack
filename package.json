@@ -18,10 +18,10 @@
     "Linters"
   ],
   "galleryBanner": {
-    "color": "#8786eb",
-    "theme": "light"
+    "color": "#0700c7",
+    "theme": "dark"
   },
-  "icon": "images/y2.jpg",
+  "icon": "images/yamaha.ico",
   "contributes": {
     "snippets": [
       {
