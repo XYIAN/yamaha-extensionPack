@@ -21,7 +21,7 @@
     "color": "#050180",
     "theme": "dark"
   },
-  "icon": "images/yamaha.ico",
+  "icon": "images/yamaha_blue.ico",
   "contributes": {
     "snippets": [
       {
