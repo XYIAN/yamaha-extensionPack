@@ -8,7 +8,7 @@
 
 Created for YDS Development Team. Contains useful extensions for typescript development.
 
-<iframe src="https://giphy.com/embed/Xu0tSrgcyL4XpDBBdm" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Download Yamaha Extension Pack](images/downloadYamaha.gif)
 
 ## Introduction
 
