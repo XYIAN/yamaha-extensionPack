@@ -18,8 +18,8 @@
     "Linters"
   ],
   "galleryBanner": {
-    "color": "#bd1004",
-    "theme": "dark"
+    "color": "#8786eb",
+    "theme": "light"
   },
   "icon": "images/y2.jpg",
   "contributes": {
