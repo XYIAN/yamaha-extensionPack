@@ -8,6 +8,8 @@
 
 Created for YDS Development Team. Contains useful extensions for typescript development.
 
+<iframe src="https://giphy.com/embed/Xu0tSrgcyL4XpDBBdm" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ## Introduction
 
 Welcome to YDS Core Extension Pack which consists of three key contrbutions: Extensions, snippets (YDS & Typescript) keybindings, and settings. All of which are geared to optimize development and improve quality of life for typescript development.
