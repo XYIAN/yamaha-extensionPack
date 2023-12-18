@@ -3,7 +3,7 @@
   "displayName": "YAMAHA Development Team Extension Pack (YDS)",
   "publisher": "YAMAHA",
   "description": "Externally maintained extension pack for YAMAHA Motor Company (YDS) deveopment team.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.84.0"
   },
