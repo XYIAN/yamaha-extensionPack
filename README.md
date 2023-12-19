@@ -51,5 +51,7 @@ All images and branding belong to Yamaha Motor Corperation USA
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Thank you!
+
 <a href=https://www.yamaha.com/><img src=https://yamaha-motor.com/images/mock-homepage/homepage_accessories_desktop_bkg_C.png /></a>
