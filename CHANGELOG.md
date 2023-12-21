@@ -6,6 +6,10 @@ All notable changes to the "yamaha-extensionPack" extension pack will be documen
 
 ## [0.1.0] - 2024-01-01
 
+### Update
+
+- lowered required vsc version for Roger
+
 ### Added [0.0.5]
 
 - yds snippet library extension
