@@ -9,6 +9,7 @@ All notable changes to the "yamaha-extensionPack" extension pack will be documen
 ### Update
 
 - lowered required vsc version for Roger
+- 1.7+
 
 ### Added [0.0.5]
 
