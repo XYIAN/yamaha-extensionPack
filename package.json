@@ -38,12 +38,14 @@
   },
   "extensionPack": [
     "YAMAHA.yds-snippets",
+    "YAMAHA.yds-core",
+    "Gruntfuggly.todo-tree",
+    "alefragnani.Bookmarks",
     "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
     "formulahendry.auto-rename-tag",
     "oderwat.indent-rainbow",
-    "dbaeumer.vscode-eslint",
     "yoavbls.pretty-ts-errors",
-    "natqe.reload",
     "github.github-vscode-theme",
     "pkief.material-icon-theme",
     "christian-kohler.npm-intellisense",
@@ -64,7 +66,7 @@
     "steoates.autoimport",
     "crystal-spider.jsdoc-generator",
     "naumovs.color-highlight",
-    "Gruntfuggly.todo-tree",
-    "alefragnani.Bookmarks"
+    "usernamehw.remove-empty-lines",
+    "natqe.reload"
   ]
 }
