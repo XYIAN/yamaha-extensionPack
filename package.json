@@ -5,7 +5,7 @@
   "description": "Externally maintained extension pack for YAMAHA Motor Company (YDS) deveopment team.",
   "version": "0.1.13",
   "engines": {
-    "vscode": "^1.7.0"
+    "vscode": "^1.6.0"
   },
   "repository": {
     "url": "https://github.com/XYIAN/yamaha-extensionPack"
