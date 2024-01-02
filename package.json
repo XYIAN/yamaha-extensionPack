@@ -67,6 +67,7 @@
     "crystal-spider.jsdoc-generator",
     "naumovs.color-highlight",
     "usernamehw.remove-empty-lines",
-    "natqe.reload"
+    "natqe.reload",
+    "amodio.restore-editors"
   ]
 }
