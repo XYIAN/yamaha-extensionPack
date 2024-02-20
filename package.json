@@ -39,6 +39,7 @@
   "extensionPack": [
     "YAMAHA.yds-snippets",
     "YAMAHA.yds-core",
+    "YAMAHA.git-yds",
     "Gruntfuggly.todo-tree",
     "alefragnani.Bookmarks",
     "esbenp.prettier-vscode",
