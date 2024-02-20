@@ -69,8 +69,6 @@
     "naumovs.color-highlight",
     "usernamehw.remove-empty-lines",
     "natqe.reload",
-    "amodio.restore-editors",
-    "vscjava.vscode-java-debug",
-    "redhat.java"
+    "amodio.restore-editors"
   ]
 }
